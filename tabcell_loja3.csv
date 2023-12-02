@@ -130,3 +130,7 @@ data;valor_servico;descricao;modelo_smartphone;custo;modelo;;;;;
 29;20;Display;J4;0;Android;;;;;
 29;30;Display;G22;0;Android;;;;;
 29;30;Display;G8;25;Android;;;;;
+30;40;Display;A10;0;Android
+30;280;Display e capacitor;A32;0;Android
+30;60;Conector;J4;0;Android
+30;30;Display;G7PLAY;0;Android

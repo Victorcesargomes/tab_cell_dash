@@ -38,7 +38,7 @@ data;valor_servico;descricao;modelo_smartphone;custo;modelo
 10;30;Display;G7PLAY;0;Android
 10;30;Display;G9PLAY;0;Android
 10;40;Display;7PLUS;0;Iphone
-10;80;RecuperaÃ§Ã£o Bateria;REDMI 8;0;Android
+10;80;Recuperação Bateria;REDMI 8;0;Android
 10;50;Display;XR;0;Android
 11;40;Display;J4 CORE;0;Android
 11;30;Display;G7 PLAY;0;Android
@@ -74,7 +74,7 @@ data;valor_servico;descricao;modelo_smartphone;custo;modelo
 16;25;Display;A32;0;Android
 16;30;Display;A20;0;Android
 16;30;Display;REDMI 9A;0;Android
-16;80;RecuperaÃ§Ã£o Bateria;NOTE 8;20;Android
+16;80;Recuperação Bateria;NOTE 8;20;Android
 16;70;Display;A30S E M21S;20;Android
 16;50;Display;NOTE10 EU ACHO;0;Android
 16;40;Display;A23;0;Android
@@ -104,7 +104,7 @@ data;valor_servico;descricao;modelo_smartphone;custo;modelo
 20;40;Bateria;8PLUS;0;Android
 20;40;Display;IPHONE 7;0;Iphone
 20;30;Plaquinha;E7;0;Android
-20;50;Display E CarcaÃ§a;J8;0;Android
+20;50;Display E Carcaça;J8;0;Android
 20;60;Display;XR;0;Android
 20;40;Display;A21S;0;Android
 20;40;Display;A12;0;Android
@@ -129,7 +129,7 @@ data;valor_servico;descricao;modelo_smartphone;custo;modelo
 23;30;Display;G7PLAY;0;Android
 23;30;Display;MI 8 EU ACHO;0;Android
 23;30;Display;G8;0;Android
-23;60;RecuperaÃ§Ã£o Bateria;G7POWER;0;Android
+23;60;Recuperação Bateria;G7POWER;0;Android
 23;150;Placa E Display;A03S;80;Android
 24;30;Display;A12;0;Android
 24;20;Display;A10;0;Android
@@ -173,14 +173,4 @@ data;valor_servico;descricao;modelo_smartphone;custo;modelo
 29;40;Display;A30;0;Android
 29;30;Display;G7 POWER;0;Android
 29;50;Display e Bateria;J4 CORE;0;Android
-29;30;Display;J8PLAY;0;Android
-30;30;Display;A01CORE;0;Android
-30;80;Conector;ONE;25;Android
-30;40;Bateria;IPHONE8PLUS;0;Iphone
-30;30;Plaquinha;G52;0;Android
-30;40;Display;ZB634KL;0;Android
-30;130;Vidro;G7POWER;15;Android
-30;50;Touch;TABLET;0;Android
-30;30;Plaquinha;TABLET;0;Android
-30;35;Display;A32;0;Android
-
+29;30;Display;G8;0;Android

@@ -172,8 +172,8 @@ loja2_layout = dbc.Container([
                 ])
             ], style=tab_card)
         ], sm=12, md=8),
-    ], className='g-2 my-auto', style={'margin-top': '7px'})
-])
+    ], className='g-2 my-auto', style={'margin-top': '7px','height': '100vh'})
+], className='p-0', fluid=True, style={'height': '100vh'})
 
 # Conteúdo da loja3
 loja3_layout = dbc.Container([
@@ -260,8 +260,8 @@ loja3_layout = dbc.Container([
                 ])
             ], style=tab_card)
         ], sm=12, md=8),
-    ], className='g-2 my-auto', style={'margin-top': '7px'})
-])
+    ], className='g-2 my-auto', style={'margin-top': '7px', 'height': '100vh'})
+], className='p-0', fluid=True, style={'height': '100vh'})
 
 
 # Layout principal
@@ -275,9 +275,9 @@ app.layout = dbc.Container([
         ], md=2, style={'padding': '0px'}),
 
         dbc.Col([
-            dbc.Container(id="page-content", fluid=True, style={'height': '100%', 'width': '100%', 'padding-left': '14px'})
+            dbc.Container(id="page-content", fluid=True,style={'height': '100%', 'width': '100%', 'padding-left': '14px', 'min-height': '100vh'})
         ], md=10, style={'padding': '0px'})
-    ])
+    ], style={'height': '100vh'})
 ], fluid=True)
 
 
@@ -623,7 +623,7 @@ def lucro(data):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port="8051")
 
 
 
