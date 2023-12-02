@@ -4,8 +4,6 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.graph_objects as go
 
-from dash import dash_table
-from dash.dash_table.Format import Group
 
 from app import app
 
