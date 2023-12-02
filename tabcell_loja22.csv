@@ -1,0 +1,176 @@
+data;valor_servico;descricao;modelo_smartphone;custo;modelo
+7;150;Display;A51;110;Android
+7;40;Display;A22;0;Android
+7;40;Display;A20;0;Android
+7;20;Display;G22;0;Android
+7;30;Display;A30S;0;Android
+7;40;Display;E7;0;Android
+7;40;Display;A20;0;Android
+7;50;Display;NOTE 9;0;Android
+7;40;Display;A21S;0;Android
+7;40;Display;G5SPLUS;0;Android
+7;25;Display;J6;0;Android
+7;50;Display;A10S;10;Android
+7;30;Display;G8PLAY;0;Android
+8;40;Display;A21s;0;Android
+8;30;Display;E6PLUS;0;Android
+8;30;Display;G6PLAY;0;Android
+8;30;Display;E20;0;Android
+8;30;Display;A03CORE;0;Android
+8;70;Placa de Carga;A30;30;Android
+8;25;Display;J4;0;Android
+8;50;Display;a51;0;Android
+8;60;Display;A03 E E20;0;Android
+8;40;Display;A30S;0;Android
+8;30;Display;A20;0;Android
+8;100;Display;EDG 30 E IPHONE 11;0;Android
+9;40;Display;G52;0;Android
+9;40;Display;NOTE 11 PRO;0;Android
+9;30;Display;A30S;0;Android
+9;30;Display;E6PLAY;0;Android
+9;40;Display;A52;0;Android
+9;35;Display;A20;0;Android
+9;30;Display;A11;0;Android
+9;30;Display;G6PLAY;0;Android
+9;30;Display;A03;0;Android
+10;30;Display;A03;0;Android
+10;30;Display;G7POWER LITE;0;Android
+10;30;Display;G7PLAY;0;Android
+10;30;Display;G9PLAY;0;Android
+10;40;Display;7PLUS;0;Iphone
+10;80;Recuperação Bateria;REDMI 8;0;Android
+10;50;Display;XR;0;Android
+11;40;Display;J4 CORE;0;Android
+11;30;Display;G7 PLAY;0;Android
+11;30;Display;G8 PLAY;0;Android
+11;30;Display;A10S;0;Android
+11;90;Bateria;G5SPLUS;10;Android
+11;30;Display;J4 CORE;0;Android
+11;25;Display;A51;0;Android
+11;25;Display;E5PLUS;0;Android
+11;40;Display;REALME C11;0;Android
+13;30;Display;NOTE 10S;0;Android
+13;30;Display;A13;0;Android
+13;70;Display;11 promax;0;Iphone
+13;30;Display;K22;0;Android
+13;145;Display;E20;65;Android
+13;30;Display;IPHONE 5;0;Iphone
+13;40;Display;A51;0;Android
+13;60;Display;IPHONE 11;0;Iphone
+13;40;Display;E20;0;Android
+13;30;Display;K11;0;Android
+13;30;Display;MOTOROLA;0;Android
+14;70;Display;A21S E NOTE10S;0;Android
+14;30;Display;note 7;0;Android
+14;30;Display;G7 PLAY;0;Android
+14;30;Display;NOTE 10;0;Android
+14;70;Display;A03/A03;0;Android
+14;95;Display;A10;60;Android
+14;130;Vidro;A12;10;Android
+16;80;Display;J6 E A01core;10;Android
+16;40;Display;A14;0;Android
+16;30;Display;A14;0;Android
+16;30;Display;A10;0;Android
+16;25;Display;A32;0;Android
+16;30;Display;A20;0;Android
+16;30;Display;REDMI 9A;0;Android
+16;80;Recuperação Bateria;NOTE 8;20;Android
+16;70;Display;A30S E M21S;20;Android
+16;50;Display;NOTE10 EU ACHO;0;Android
+16;40;Display;A23;0;Android
+16;40;Display;A32;0;Android
+16;30;Doc;note 10;0;Android
+17;60;Display;E6PLUS E J3;0;Android
+17;50;Conector;K9;2;Android
+17;40;Display;NOTE 10;0;Android
+17;30;Plaquinha;G9PLAY;0;Android
+17;30;Display;E7;0;Android
+17;30;Display;K22;0;Android
+17;30;Display;A03;0;Android
+17;60;Display;NOTE 10 E NOTE 8;0;Android
+17;30;Display;A14;0;Android
+17;20;Display;j4core;0;Android
+18;30;Display;a10;0;Android
+18;30;Display;G8POWER LITE;0;Android
+18;30;Display;A20;0;Android
+18;30;Display;A10;0;Android
+18;30;Lente;IPHONE 11;0;Iphone
+18;30;Display;A10;0;Android
+18;70;Conector;G5S;4;Android
+18;60;Display;XIAOMI 2;0;Android
+20;40;Display;IPHONE 8;0;Iphone
+20;30;Display;A01;0;Android
+20;40;Display;G22;0;Android
+20;40;Bateria;8PLUS;0;Android
+20;40;Display;IPHONE 7;0;Iphone
+20;30;Plaquinha;E7;0;Android
+20;50;Display E Carcaça;J8;0;Android
+20;60;Display;XR;0;Android
+20;40;Display;A21S;0;Android
+20;40;Display;A12;0;Android
+21;60;Display;A31S E A21S;0;Android
+21;50;Display;M52;0;Android
+21;30;Display;A20;0;Android
+21;30;Bateria;a30;0;Android
+21;30;Display;E7;0;Android
+21;40;Bateria;8PLUS;0;Android
+21;30;Display;G8PLAY;0;Android
+21;60;Display;E6PLAY E E7;0;Android
+21;40;Display;NOTE 11;0;Android
+22;40;Display;A03;0;Android
+22;30;Display;G22;0;Android
+22;30;Display;K10POWER;0;Android
+22;30;Display;A10;0;Android
+22;30;Display;A01;0;Android
+22;30;Display;G9PLAY;0;Android
+22;20;Display;A10;0;Android
+23;100;Bateria E Tela;NOTE 8;0;Android
+23;29;Display;A12;0;Android
+23;30;Display;G7PLAY;0;Android
+23;30;Display;MI 8 EU ACHO;0;Android
+23;30;Display;G8;0;Android
+23;60;Recuperação Bateria;G7POWER;0;Android
+23;150;Placa E Display;A03S;80;Android
+24;30;Display;A12;0;Android
+24;20;Display;A10;0;Android
+24;30;Display;G20;0;Android
+24;25;Display;A03;0;Android
+24;40;Display;NOTE 10S;0;Android
+24;150;Tampa;11 promax;50;Iphone
+25;35;Display;K51;0;Android
+25;50;Display;A50;10;Android
+25;30;Display;G5SPLUS;0;Android
+25;40;Display;A31S;0;Android
+25;30;Display;K8;0;Android
+25;70;Display;A31/K40S;0;Android
+25;70;Bateria;NOTE 7;10;Android
+25;25;Lente;IPHONE 11;0;Iphone
+27;30;Bateria;s6;0;Android
+27;30;Display;A02;0;Android
+27;30;Display;G30;0;Android
+27;30;Display;G7plus;0;Android
+27;30;Display;k12;0;Android
+27;60;Bateria;a70 E a30s;0;Android
+27;30;Display;G7PLUS;0;Android
+27;40;Display;G22.;0;Android
+27;40;Display;E6PLUS;0;Android
+27;40;Display;A10;0;Android
+27;40;Display;M31;0;Android
+27;50;Display;XR;0;Iphone
+27;60;Display;XIAOMIS;0;Android
+28;30;Display;K10 2016;0;Android
+28;40;Bateria;7PLUS;0;Android
+28;30;Display;J5PRIME;0;Android
+28;30;Display;A20;0;Android
+28;30;Flex Power;MOTO C;0;Android
+28;30;Display;A22;0;Android
+28;70;Display;XIAOMI E A03;0;Android
+29;30;Display;A12;0;Android
+29;70;Display;A01;0;Android
+29;30;Display;A01 CORE;0;Android
+29;60;Display;E6S;0;Android
+29;30;Display;7 PLUS;0;Iphone
+29;40;Display;A30;0;Android
+29;30;Display;G7 POWER;0;Android
+29;50;Display e Bateria;J4 CORE;0;Android
+29;30;Display;G8;0;Android
