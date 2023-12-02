@@ -1,1 +1,1 @@
-web: gunicorn myindex.py:server
+web: gunicorn myindex:server
