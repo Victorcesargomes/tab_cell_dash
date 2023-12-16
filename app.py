@@ -475,14 +475,18 @@ app.layout = dbc.Container([
 # Callbacks para atualizar o conteúdo da página
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
-    if pathname == "/" or pathname == "/loja2":
+
+
+    
+    if pathname == "/" or pathname == "/loja1":
+        return loja1_layout
+    
+    if pathname == "/loja2":
         return loja2_layout
 
     if pathname == "/loja3":
         return loja3_layout
     
-    if pathname == "/loja1":
-        return loja1_layout
     
     if pathname == "/painel":
         return painel_layout
